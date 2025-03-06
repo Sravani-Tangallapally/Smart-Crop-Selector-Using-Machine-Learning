@@ -1,0 +1,1 @@
+export type api = "2cbc268fd12646b181194620250701";
