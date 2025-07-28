@@ -32,7 +32,17 @@ The **Smart Crop Selector** is an innovative web-based platform designed to empo
 2. Install dependencies (`npm install` for frontend, `pip install` for backend).  
 3. Configure environment variables (OpenWeather API keys, database credentials).  
 4. Train and deploy the **Random Forest model**.  
-5. Start the backend and frontend servers (`npm start` / `python app.py`).  
+5. Start the backend and frontend servers (`npm start` / `python app.py`).
+
+## outputs
+<img width="940" height="472" alt="image" src="https://github.com/user-attachments/assets/c54dd27d-e009-462f-a17c-fa9df2e3d5b2" />
+<img width="897" height="645" alt="image" src="https://github.com/user-attachments/assets/e8df2b40-d40a-4950-b78b-358284509c30" />
+<img width="940" height="345" alt="image" src="https://github.com/user-attachments/assets/11cd3013-0af8-4ecf-aeda-c78a2963a37c" />
+<img width="847" height="614" alt="image" src="https://github.com/user-attachments/assets/91352be6-fc5b-487f-a3b9-05d696c422a3" />
+
+
+
+
  
 
 
