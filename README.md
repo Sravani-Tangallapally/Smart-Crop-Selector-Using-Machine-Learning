@@ -34,7 +34,7 @@ The **Smart Crop Selector** is an innovative web-based platform designed to empo
 4. Train and deploy the **Random Forest model**.  
 5. Start the backend and frontend servers (`npm start` / `python app.py`).
 
-## outputs
+# outputs
 <img width="940" height="472" alt="image" src="https://github.com/user-attachments/assets/c54dd27d-e009-462f-a17c-fa9df2e3d5b2" />
 <img width="897" height="645" alt="image" src="https://github.com/user-attachments/assets/e8df2b40-d40a-4950-b78b-358284509c30" />
 <img width="940" height="345" alt="image" src="https://github.com/user-attachments/assets/11cd3013-0af8-4ecf-aeda-c78a2963a37c" />
